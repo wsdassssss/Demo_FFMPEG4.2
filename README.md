@@ -1,0 +1,2 @@
+# Demo_FFMPEG4.2
+QT下FFMPEG4.2Demo，配置32位和64位
